@@ -3,7 +3,6 @@ import Nav from './Components/Nav';
 import Home from './Components/Home';
 import About from './Components/About';
 import Skills from './Components/Skills';
-// import Blogs from './Components/Blogs';
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
 import Menu from './Components/Menu';
@@ -47,7 +46,6 @@ const App = () => {
         <About />
         <Skills />
         <Projects />
-        {/* <Blogs /> */}
         <Contact />
         <Footer/>
       </main>
