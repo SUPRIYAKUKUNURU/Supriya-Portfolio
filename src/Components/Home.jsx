@@ -4,7 +4,7 @@ import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 
 const socialMediaLinks = [
-  // { href: 'https://twitter.com/Sanika_0305', icon: faTwitter },
+
   { href: 'https://www.linkedin.com/in/supriya-kukunuru-b0b389252/', icon: faLinkedin },
   { href: 'https://github.com/SUPRIYAKUKUNURU', icon: faGithub },
   { href: "https://mail.google.com/mail/u/0/?fs=1&to=supriyakukunuru2001@gmail.com&tf=cm", icon: faEnvelope },
