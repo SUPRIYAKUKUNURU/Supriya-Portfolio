@@ -7,7 +7,6 @@ const Menu = ({ menuOpen, setMenuOpen, toggleMenu }) => {
     'about',
     'skills',
     'projects',
-    'blog',
     'contact',
   ];
 
