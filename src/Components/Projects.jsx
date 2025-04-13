@@ -27,22 +27,14 @@ const Projects = () => {
       visitLink: 'https://unique-queijadas-dc3d25.netlify.app',
       sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Shopping-cart',
     },
-    // {
-    //   title: '100x App Components',
-    //   skills: 'HTML | Tailwind CSS | Figma',
-    //   about: 'Collection of components for the 100x app (Twitter clone) designed with Figma for seamless integration.',
-    //   learning: 'Gained proficiency in crafting precise code from Figma designs, ensuring consistency across layouts and components.',
-    //   visitLink: 'https://sanika03.github.io/100x-components/src/index.html',
-    //   sourceLink: 'https://github.com/Sanika03/100x-components',
-    // },
-    // {
-    //   title: 'Pricing Cards Page',
-    //   skills: 'HTML | Tailwind CSS | Figma',
-    //   about: 'Demo pricing card page crafted with Tailwind CSS for a sleek and responsive design.',
-    //   learning: 'Developed proficiency in utilizing Tailwind CSS, refining skills in creating responsive web designs.',
-    //   visitLink: 'https://sanika03.github.io/Pricing-cards-page/src/index.html',
-    //   sourceLink: 'https://github.com/Sanika03/Pricing-cards-page',
-    // },
+    {
+      title: 'Trend Vault',
+      skills: 'ReactJs| Material UI | ',
+      about: 'The Trend Vault project, built with React.js, features key pages like Home, Shop, About, Contact, Journal, Product Details, Cart, and Footer. It includes form validations for secure user input and offers a seamless, responsive shopping experience.',
+      learning: 'Learned to build multi-page applications using React, implement form validations, manage component-based architecture, and design responsive UIs for better user experience.',
+      visitLink: 'https://trend-vault-two.vercel.app/',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/TrendVault',
+    },
   ];
 
   return (
