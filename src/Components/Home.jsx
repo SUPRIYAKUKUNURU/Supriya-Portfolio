@@ -55,9 +55,9 @@ const Home = () => {
             href="https://drive.google.com/file/d/1Vg6zF-S2pC5dPvtEaTNHSdM3WM7SxTkk/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
-            className="font-semibold bg-cream text-grape p-3 border border-solid border-grape rounded-md hover:bg-grape hover:text-cream transition duration-300"
+            className="font-semibold bg-cream text-grape p-3 border border-solid border-grape rounded-lg hover:bg-grape hover:text-cream transition duration-300"
           >
-            Click to see my resume
+            Check my resume
           </a>
         </div>
       </div>
