@@ -35,6 +35,14 @@ const Projects = () => {
       visitLink: 'https://trend-vault-two.vercel.app/',
       sourceLink: 'https://github.com/SUPRIYAKUKUNURU/TrendVault',
     },
+    {
+      title: 'Mart',
+      skills: 'ReactJs| Material UI |Bootstrap ',
+      about: 'The Mart project is a responsive e-commerce site built with React.js, Material UI, and Bootstrap. It features categories like Sofas, Phones, Furniture, and Chairs, with key pages including Home, Shop, Product Details, Cart, and Contact. The UI is clean and user-friendly with form validations and smooth navigation.',
+      learning: 'Learned to create responsive UIs using Material UI and Bootstrap, manage component-based architecture in React, and implement form validations for better user experience.',
+      visitLink: 'https://mart-supriyakukunurus-projects.vercel.app/ ',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Mart',
+    },
   ];
 
   return (
