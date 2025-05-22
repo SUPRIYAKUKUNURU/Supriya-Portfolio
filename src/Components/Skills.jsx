@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Skills = () => {
-  const skills = ['HTML', 'CSS','BOOTSTRAP', 'Javascript','React JS', 'Tailwind CSS',' Core Java','MySQL','Git', 'GitHub','Cloud','Netlify','Plotly.js'];
+  const skills = ['HTML', 'CSS','BOOTSTRAP', 'Javascript','React JS', 'Tailwind CSS',' Core Java','MySQL','JDBC','Hibernate- ORM','Git', 'GitHub','Cloud','Netlify','Plotly.js'];
 
   return (
     <section id="skills" className="h-screen p-8 text-grape flex justify-center items-center">
