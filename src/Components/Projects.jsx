@@ -2,7 +2,14 @@ import React from 'react';
 
 const Projects = () => {
   const projects = [
-   
+{
+  title: 'Library Management System',
+  skills: 'Java | OOPs | Collection Framework',
+  about: 'A console-based application developed using Java that allows users to manage a library efficiently. The system supports core functionalities like adding new books, removing existing books, searching by title or author, displaying the full catalog, and issuing/returning books. It follows Object-Oriented Programming (OOP) principles and uses the Java Collection Framework—primarily ArrayList and HashMap—for efficient data storage and retrieval. The application includes validation checks, menu-driven navigation, and modular code structure to ensure maintainability and scalability.',
+  learning: 'This project helped me strengthen my understanding of core Java, especially object-oriented principles like inheritance, encapsulation, and abstraction. I gained practical experience working with the Collection Framework to manage complex data sets. Additionally, I learned how to write reusable, modular code and apply real-world logic to build a fully functional system from scratch.',
+  visitLink: 'https://drive.google.com/file/d/1dE5xCPPzxrKpv5WV3V7mMOVTh5hjb-MD/view?usp=sharing'
+}
+
     {
       title: 'E-Commerce',
       skills: 'HTML | CSS | Javascript | Bootstrap',
