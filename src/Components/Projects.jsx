@@ -2,6 +2,14 @@ import React from 'react';
 
 const Projects = () => {
   const projects = [
+    {
+  title: 'MySQL Coding Assignment',
+  skills: 'MySQL | SQL Queries | DDL | DML | Aggregate Functions',
+  about: 'This project demonstrates my ability to use MySQL for database creation, data manipulation, and querying. I created an `employees` table with columns like id, name, department, salary, hire_date, email, and status. The project includes DDL operations such as table creation and DML operations including inserting 10 sample records. Various SELECT queries were implemented to filter, group, and aggregate data—such as retrieving employees by salary range, hire dates, status conditions, and department-wise summaries.',
+  learning: 'Through this assignment, I deepened my understanding of SQL fundamentals, especially in working with DDL and DML commands. I practiced writing queries to filter records using WHERE, BETWEEN, IN, IS NULL, ORDER BY, and GROUP BY clauses. I also learned to apply aggregate functions like COUNT(), AVG(), and MAX() for data summarization, which helped enhance my data handling and reporting skills in MySQL.',
+  visitLink: 'https://drive.google.com/file/d/1LEDN5u2bjhVnIHGnT5L3EUijSn15d1xr/view?usp=sharing'
+}
+
 {
   title: 'Library Management System',
   skills: 'Java | OOPs | Collection Framework',
