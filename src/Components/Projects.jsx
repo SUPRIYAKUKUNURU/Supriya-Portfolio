@@ -8,7 +8,7 @@ const Projects = () => {
   about: 'This project demonstrates my ability to use MySQL for database creation, data manipulation, and querying. I created an `employees` table with columns like id, name, department, salary, hire_date, email, and status. The project includes DDL operations such as table creation and DML operations including inserting 10 sample records. Various SELECT queries were implemented to filter, group, and aggregate data—such as retrieving employees by salary range, hire dates, status conditions, and department-wise summaries.',
   learning: 'Through this assignment, I deepened my understanding of SQL fundamentals, especially in working with DDL and DML commands. I practiced writing queries to filter records using WHERE, BETWEEN, IN, IS NULL, ORDER BY, and GROUP BY clauses. I also learned to apply aggregate functions like COUNT(), AVG(), and MAX() for data summarization, which helped enhance my data handling and reporting skills in MySQL.',
   visitLink: 'https://drive.google.com/file/d/1LEDN5u2bjhVnIHGnT5L3EUijSn15d1xr/view?usp=sharing'
-}
+},
 
 {
   title: 'Library Management System',
@@ -16,7 +16,7 @@ const Projects = () => {
   about: 'A console-based application developed using Java that allows users to manage a library efficiently. The system supports core functionalities like adding new books, removing existing books, searching by title or author, displaying the full catalog, and issuing/returning books. It follows Object-Oriented Programming (OOP) principles and uses the Java Collection Framework—primarily ArrayList and HashMap—for efficient data storage and retrieval. The application includes validation checks, menu-driven navigation, and modular code structure to ensure maintainability and scalability.',
   learning: 'This project helped me strengthen my understanding of core Java, especially object-oriented principles like inheritance, encapsulation, and abstraction. I gained practical experience working with the Collection Framework to manage complex data sets. Additionally, I learned how to write reusable, modular code and apply real-world logic to build a fully functional system from scratch.',
   visitLink: 'https://drive.google.com/file/d/1dE5xCPPzxrKpv5WV3V7mMOVTh5hjb-MD/view?usp=sharing'
-}
+},
 
     {
       title: 'E-Commerce',
