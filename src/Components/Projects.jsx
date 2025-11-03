@@ -23,7 +23,7 @@ const Projects = () => {
       skills: 'HTML | CSS | Javascript | Bootstrap',
       about: 'The e-commerce website for clothing, electronics, and jewelry is built with HTML, CSS, Bootstrap, and JavaScript. It offers a responsive design, mobile-friendly layout, and interactive features like product filtering and dynamic cart updates for a smooth shopping experience..',
       learning: 'This project enhanced my skills in creating responsive layouts with HTML, CSS, and Bootstrap, and implementing interactive features like product filtering and dynamic carts using JavaScript..',
-      visitLink: 'https://whimsical-halva-c5ca7d.netlify.app',
+      visitLink: 'frabjous-dusk-9bfafb.netlify.app',
       sourceLink: 'https://github.com/SUPRIYAKUKUNURU/E-Commerce-',
     },
     {
