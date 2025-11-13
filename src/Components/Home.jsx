@@ -1,7 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faTwitter,
   faLinkedin,
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
@@ -34,7 +33,6 @@ const Home = () => {
           A FRONTEND WEB DEVELOPER
         </p>
 
-        
         <div className="flex space-x-4 justify-center mb-6">
           {socialMediaLinks.map((link, index) => (
             <a
@@ -49,7 +47,6 @@ const Home = () => {
           ))}
         </div>
 
-        
         <div className="text-center">
           <a
             href="https://drive.google.com/file/d/1xbscyW-ok9fEztC1ATfUHqzRPjzaSyFZ/view?usp=sharing"
