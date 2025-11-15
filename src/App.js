@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Nav from './Components/Nav';
 import Home from './Components/Home';
 import About from './Components/About';
+import WorkExperience from "./Components/WorkExperience";
 import Skills from './Components/Skills';
 import Projects from './Components/Projects';
 import Contact from './Components/Contact';
@@ -44,6 +45,7 @@ const App = () => {
         </video>
         <Home />
         <About />
+        <WorkExperience />
         <Skills />
         <Projects />
         <Contact />
