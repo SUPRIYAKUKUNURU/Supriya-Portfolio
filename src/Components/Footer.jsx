@@ -7,7 +7,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer" 
             className="underline hover:opacity-70">View code on GitHub</a>
-            <p>© 2024 Supriya Kukunuru. All rights reserved.</p>
+            <p>© 2025 Supriya Kukunuru. All rights reserved.</p>
         </div>
     )
 }
