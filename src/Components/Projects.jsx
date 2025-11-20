@@ -34,9 +34,7 @@ const Projects = () => {
     visitLink: 'https://recipe-ideas-black-pi.vercel.app/',
     sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Recipe-Ideas',
   }
-
-    
-      {
+,        {
       title: 'Shopping-Cart ',
       skills: 'HTML |CSS | JavaScript | ReactJs| Tailwind CSS | ',
       about: 'The shopping cart project, built with React and TailwindCSS, allows users to add, remove, and clear items with real-time updates. React manages the carts state, while TailwindCSS provides a responsive, modern design..',
