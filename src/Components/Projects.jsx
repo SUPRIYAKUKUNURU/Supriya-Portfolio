@@ -3,6 +3,57 @@ import React from 'react';
 const Projects = () => {
   const projects = [
     {
+      title: 'E-Commerce',
+      skills: 'HTML | CSS | Javascript | Bootstrap',
+      about: 'The e-commerce website for clothing, electronics, and jewelry is built with HTML, CSS, Bootstrap, and JavaScript. It offers a responsive design, mobile-friendly layout, and interactive features like product filtering and dynamic cart updates for a smooth shopping experience..',
+      learning: 'This project enhanced my skills in creating responsive layouts with HTML, CSS, and Bootstrap, and implementing interactive features like product filtering and dynamic carts using JavaScript..',
+      visitLink: 'https://frabjous-dusk-9bfafb.netlify.app/',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/E-Commerce-',
+    },
+      {
+      title: 'Mart',
+      skills: 'ReactJs| Material UI |Bootstrap ',
+      about: 'The Mart project is a responsive e-commerce site built with React.js, Material UI, and Bootstrap. It features categories like Sofas, Phones, Furniture, and Chairs, with key pages including Home, Shop, Product Details, Cart, and Contact. The UI is clean and user-friendly with form validations and smooth navigation.',
+      learning: 'Learned to create responsive UIs using Material UI and Bootstrap, manage component-based architecture in React, and implement form validations for better user experience.',
+      visitLink: 'https://mart-supriyakukunurus-projects.vercel.app/ ',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Mart',
+    },
+     {
+      title: 'Trend Vault',
+      skills: 'ReactJs| Material UI | ',
+      about: 'The Trend Vault project, built with React.js, features key pages like Home, Shop, About, Contact, Journal, Product Details, Cart, and Footer. It includes form validations for secure user input and offers a seamless, responsive shopping experience.',
+      learning: 'Learned to build multi-page applications using React, implement form validations, manage component-based architecture, and design responsive UIs for better user experience.',
+      visitLink: 'https://trend-vault-two.vercel.app/',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/TrendVault',
+    },
+    {
+    title: 'Recipe Ideas',
+    skills: 'HTML | CSS | JavaScript | React | Bootstrap',
+    about: 'The Recipe Ideas website allows users to explore recipes based on available ingredients such as chicken, starters, fish, and sweets. When users click on an ingredient card, all related recipes are displayed in beautiful, responsive cards. Each recipe includes cooking steps, required ingredients, and an embedded YouTube video for additional guidance.',
+    learning: 'This project improved my skills in building dynamic UI components with React, designing responsive card layouts, and handling user interactions based on ingredient selections. I also learned to integrate multimedia content like YouTube videos to enhance user experience.',
+    visitLink: 'https://recipe-ideas-black-pi.vercel.app/',
+    sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Recipe-Ideas',
+  }
+
+    
+      {
+      title: 'Shopping-Cart ',
+      skills: 'HTML |CSS | JavaScript | ReactJs| Tailwind CSS | ',
+      about: 'The shopping cart project, built with React and TailwindCSS, allows users to add, remove, and clear items with real-time updates. React manages the carts state, while TailwindCSS provides a responsive, modern design..',
+      learning: 'Include managing state with React for dynamic cart updates, using TailwindCSS for responsive design, and handling user interactions effectively within a web app..',
+      visitLink: 'https://unique-queijadas-dc3d25.netlify.app',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Shopping-cart',
+    },
+    {
+      title: 'Heatmap',
+      skills: 'HTML | CSS | Plotly.js | Plain JavaScript',
+      about: 'The heatmap project, built with JavaScript, HTML, CSS, and Plotly.js, visualizes game ratings using a color scale, where each cell represents a game and its rating. It offers interactive, data-driven insights into game features..',
+      learning: 'This project enhances the ability to create interactive visualizations with Plotly.js and integrates JavaScript, HTML, and CSS for responsive interfaces. It also improves the use of color scales to present complex data clearly..',
+      visitLink: 'https://clever-cajeta-f8c800.netlify.app',
+      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Heatmap',
+    },
+   
+    {
   title: 'MySQL Coding Assignment',
   skills: 'MySQL | SQL Queries | DDL | DML | Aggregate Functions',
   about: 'This project demonstrates my ability to use MySQL for database creation, data manipulation, and querying. I created an `employees` table with columns like id, name, department, salary, hire_date, email, and status. The project includes DDL operations such as table creation and DML operations including inserting 10 sample records. Various SELECT queries were implemented to filter, group, and aggregate data—such as retrieving employees by salary range, hire dates, status conditions, and department-wise summaries.',
@@ -17,47 +68,6 @@ const Projects = () => {
   learning: 'This project helped me strengthen my understanding of core Java, especially object-oriented principles like inheritance, encapsulation, and abstraction. I gained practical experience working with the Collection Framework to manage complex data sets. Additionally, I learned how to write reusable, modular code and apply real-world logic to build a fully functional system from scratch.',
   visitLink: 'https://drive.google.com/file/d/1dE5xCPPzxrKpv5WV3V7mMOVTh5hjb-MD/view?usp=sharing'
 },
-
-    {
-      title: 'E-Commerce',
-      skills: 'HTML | CSS | Javascript | Bootstrap',
-      about: 'The e-commerce website for clothing, electronics, and jewelry is built with HTML, CSS, Bootstrap, and JavaScript. It offers a responsive design, mobile-friendly layout, and interactive features like product filtering and dynamic cart updates for a smooth shopping experience..',
-      learning: 'This project enhanced my skills in creating responsive layouts with HTML, CSS, and Bootstrap, and implementing interactive features like product filtering and dynamic carts using JavaScript..',
-      visitLink: 'https://frabjous-dusk-9bfafb.netlify.app/',
-      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/E-Commerce-',
-    },
-    {
-      title: 'Heatmap',
-      skills: 'HTML | CSS | Plotly.js | Plain JavaScript',
-      about: 'The heatmap project, built with JavaScript, HTML, CSS, and Plotly.js, visualizes game ratings using a color scale, where each cell represents a game and its rating. It offers interactive, data-driven insights into game features..',
-      learning: 'This project enhances the ability to create interactive visualizations with Plotly.js and integrates JavaScript, HTML, and CSS for responsive interfaces. It also improves the use of color scales to present complex data clearly..',
-      visitLink: 'https://clever-cajeta-f8c800.netlify.app',
-      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Heatmap',
-    },
-    {
-      title: 'Shopping-Cart ',
-      skills: 'HTML |CSS | JavaScript | ReactJs| Tailwind CSS | ',
-      about: 'The shopping cart project, built with React and TailwindCSS, allows users to add, remove, and clear items with real-time updates. React manages the carts state, while TailwindCSS provides a responsive, modern design..',
-      learning: 'Include managing state with React for dynamic cart updates, using TailwindCSS for responsive design, and handling user interactions effectively within a web app..',
-      visitLink: 'https://unique-queijadas-dc3d25.netlify.app',
-      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Shopping-cart',
-    },
-    {
-      title: 'Trend Vault',
-      skills: 'ReactJs| Material UI | ',
-      about: 'The Trend Vault project, built with React.js, features key pages like Home, Shop, About, Contact, Journal, Product Details, Cart, and Footer. It includes form validations for secure user input and offers a seamless, responsive shopping experience.',
-      learning: 'Learned to build multi-page applications using React, implement form validations, manage component-based architecture, and design responsive UIs for better user experience.',
-      visitLink: 'https://trend-vault-two.vercel.app/',
-      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/TrendVault',
-    },
-    {
-      title: 'Mart',
-      skills: 'ReactJs| Material UI |Bootstrap ',
-      about: 'The Mart project is a responsive e-commerce site built with React.js, Material UI, and Bootstrap. It features categories like Sofas, Phones, Furniture, and Chairs, with key pages including Home, Shop, Product Details, Cart, and Contact. The UI is clean and user-friendly with form validations and smooth navigation.',
-      learning: 'Learned to create responsive UIs using Material UI and Bootstrap, manage component-based architecture in React, and implement form validations for better user experience.',
-      visitLink: 'https://mart-supriyakukunurus-projects.vercel.app/ ',
-      sourceLink: 'https://github.com/SUPRIYAKUKUNURU/Mart',
-    },
   ];
 
   return (
